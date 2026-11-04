@@ -5,8 +5,8 @@
     "appName": "SoundTest",
     "appType": "app",
     "version": {
-      "code": 2,
-      "name": "1.1.0"
+      "code": 3,
+      "name": "1.2.0"
     },
     "icon": "icon.png",
     "vender": "zepp",
@@ -47,6 +47,9 @@
   },
   "i18n": {
     "en-US": {
+      "appName": "SoundTest"
+    },
+    "ru-RU": {
       "appName": "SoundTest"
     }
   },
